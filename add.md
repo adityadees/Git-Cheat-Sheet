@@ -18,7 +18,7 @@ Add all files starting with `mydata` in the staging area, just add asterisk `*` 
 
 `git add mydata*`
 
-## see changes using "git add -p"
+## See changes using "git add -p"
 
 Open a prompt and asks if you want to stage changes or not, and includes other options.
 
