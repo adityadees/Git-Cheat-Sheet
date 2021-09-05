@@ -10,13 +10,13 @@ Use `.`  for add all files to the staging area.
 
 Add a file to the staging area. Replace `your_file_name.extension` with the name of the file you want to add to the staging area.
 
-`git add your_file_name.extension`
+`git add [your_file_name.extension]`
 
 ## Add only certain files to the staging area
 
 Add all files starting with `mydata` in the staging area, just add asterisk `*` to the end of words.
 
-`git add mydata*`
+`git add [mydata*]`
 
 ## See changes using "git add -p"
 
@@ -26,6 +26,6 @@ Open a prompt and asks if you want to stage changes or not, and includes other o
 
 ## Add a remote repository
 
-Add a remote repository to local repository (just replace `https://myrepo` with your remote repo URL).
+Add a remote repository to local repository.
 
-`git add remote https://myrepo`
+`git add remote [https://your_repository_url]`

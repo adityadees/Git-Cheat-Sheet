@@ -8,4 +8,4 @@ Create a new Git repository from an existing directory
 
 Create a new Git repository in a particular directory to generate a new .git subdirectory.
 
-`git init directory_name`
+`git init [directory_name]`
