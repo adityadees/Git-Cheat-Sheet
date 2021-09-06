@@ -6,7 +6,7 @@ Use a different or a newly created branch.
 
 `git checkout [branch_name]`
 
-## How to create a branch in Git and switch to it immediately
+## Create a branch and switch to it immediately
 
 In a single command, you can create and switch to a new branch right away.
 
