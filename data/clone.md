@@ -1,6 +1,6 @@
 # All commands with "clone"
 
-## Clone a repository (local or remote via HTTP/SSH)
+## Clone a repository
 
 Target an existing repository and clone or copy it in a new directory.
 
@@ -18,7 +18,7 @@ Clone the repository at [myRepoUrl] and clone only the ref for [myTag].
 
 `git clone --branch [myTag] [myRepoUrl]`
 
-## git clone branch
+## Clone a branch
 
 The `-branch` argument specifies a branch which should be cloned instead of the one the remote HEAD is indicating to, usually the master branch. Besides, you can pass a tag instead of a branch for the same effect.
 
