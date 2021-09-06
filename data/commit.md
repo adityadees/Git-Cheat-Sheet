@@ -12,7 +12,7 @@ You can add a commit message without opening the editor. This command lets you o
 
 `git commit -m "[your commit message]"`
 
-## Commit changes (and skip the staging area)
+## Commit changes and skip the staging area
 
 Combines the -a and -m options for creating a commit for all the staged changes and taking an inline commit message.
 
